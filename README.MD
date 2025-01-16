@@ -10,6 +10,6 @@ Add the following line to your plugins file:
 
 ```
 ohmyzsh/ohmyzsh
-Senderman/fox-theme-fixed path:fox.zsh-theme
+Senderman/fox-theme-fixed
 ```
 
