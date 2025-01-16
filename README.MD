@@ -1,12 +1,12 @@
 # Fox theme fixed
 
-This is fork of [OMZ's fox theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fox.zsh-theme) with the `☮` char replaced by `@`, because in many fonts, there's no monospace "hippe logo" character, so the terminal PS1 looks weird.
+This is fork of [OMZ's fox theme](https://github.com/ohmyzsh/ohmyzsh/blob/master/themes/fox.zsh-theme) with the `☮` char replaced by `@`, because in many fonts, there's no monospace "hippie logo" character, so the shell prompt looks weird.
 
 # Installation
 
 Use [Antidote](https://getantidote.github.io/)
 
-Add the following line to your plugins file:
+Add the following lines to your plugins file:
 
 ```
 ohmyzsh/ohmyzsh
