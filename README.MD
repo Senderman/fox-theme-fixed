@@ -9,7 +9,8 @@ Use [Antidote](https://getantidote.github.io/)
 Add the following line to your plugins file:
 
 ```
-ohmyzsh/ohmyzsh
+getantidote/use-omz
+ohmyzsh/ohmyzsh path:lib
 Senderman/fox-theme-fixed
 ```
 
